@@ -1,4 +1,4 @@
-# eslint-plugin-sort-imports-es6 [![Build Status](https://travis-ci.org/erikdesjardins/eslint-plugin-sort-imports-es6.svg?branch=master)](https://travis-ci.org/erikdesjardins/eslint-plugin-sort-imports-es6)
+# eslint-plugin-sort-imports-es6
 
 A sort-imports rule that properly distinguishes between ES6 import types.
 
